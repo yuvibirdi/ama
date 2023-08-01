@@ -1,4 +1,4 @@
-AMA: The Animal Monitoring Association
+# AMA: The Animal Monitoring Association
 This project uses Audio Classification techniques to classify animal sounds, and we are using it to protect travelers before visiting wildlife areas, to warn them of wild animals that might pose danger. It can also be used in wildlife sanctuaries and forests for animal behavior analysis
 
 # How we built it
