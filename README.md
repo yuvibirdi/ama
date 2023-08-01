@@ -20,6 +20,7 @@ Accomplishments that we're proud of
 ## What's next for AI Animal Surveillance System
 - We can hugely scale this project, pair it with surveillance cameras and animal specific data such that it can be used for a very extensive animal behaviour research purpose, whether it is analysing patterns in groups of animals, or the behavioural patterns and insights in a specific breed of animal, and can be used by residents, travelers, researchers, vets, or just the average human.
 Here is the code for the project
+- Furthermore, Currently the Website is Static to use and the code needs to updated and refreshed before any changes are visible therefore, In future frameworks such as React can be used to make the website Reactive.
 
 ## Technologies used
 -  css
